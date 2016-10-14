@@ -16,7 +16,7 @@ public class Chat extends JFrame {
             });
         } catch (InterruptedException | InvocationTargetException e) {e.printStackTrace();}
 
-        
+
     }
 
     public static void main(String[] args) {

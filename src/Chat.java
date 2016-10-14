@@ -15,6 +15,8 @@ public class Chat extends JFrame {
                 setLocationRelativeTo(null);
             });
         } catch (InterruptedException | InvocationTargetException e) {e.printStackTrace();}
+
+        
     }
 
     public static void main(String[] args) {
